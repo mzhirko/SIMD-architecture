@@ -1,0 +1,3 @@
+/home/maria/projects/github.com/MRZ/2-nd-lab/source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maria/projects/github.com/MRZ/2-nd-lab/source/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maria/projects/github.com/MRZ/2-nd-lab/source/cmake-build-debug/CMakeFiles/lab_2.dir

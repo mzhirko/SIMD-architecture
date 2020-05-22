@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maria/projects/github.com/MRZ/2-nd-lab/source/main.cpp
+iostream
+-
+iomanip
+-
+ctime
+-
+math.h
+-
+
